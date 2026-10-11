@@ -7,7 +7,7 @@
 
 | 거실 4.2×3.6m | 원룸 3.4×5.2m |
 |---|---|
-| ![거실 배치 시안](https://raw.githubusercontent.com/nestly-apps/.github/main/profile/assets/living-room.png) | ![원룸 배치 시안](https://raw.githubusercontent.com/nestly-apps/.github/main/profile/assets/studio.png) |
+| ![거실 배치 시안](assets/living-room.png) | ![원룸 배치 시안](assets/studio.png) |
 
 지금 만들고 있는 배치 편집기 화면의 디자인 시안입니다. 가구는 실제 치수 비율대로 위에서 내려다본 모양으로 그립니다.
 
